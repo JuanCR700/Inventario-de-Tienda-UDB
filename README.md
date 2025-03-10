@@ -1,19 +1,34 @@
 🛒 Sistema de Gestión de Inventario
-Aplicación en C# (Windows Forms .NET Framework) para administrar productos, clientes y ventas de una tienda.
+Aplicación desarrollada en C# (Windows Forms .NET Framework) para facilitar la administración de productos, clientes y ventas en una tienda.
 
-📌 Características
-✅ Gestión de Productos → Registrar, visualizar y actualizar stock.
-✅ Gestión de Clientes → Agregar y administrar clientes.
-✅ Registro de Ventas → Asignar productos a clientes con cálculo automático.
-✅ Estadísticas Visuales 📊 → Gráficos de stock y ventas en tiempo real.
+📌 Características Principales
+Gestión de Productos: Registra, visualiza y actualiza el stock fácilmente.
 
-📝 Funcionalidades
-📦 Productos → Agregar, modificar y listar productos con control de stock.
-👤 Clientes → Registrar clientes con dirección y teléfono.
-🛒 Ventas → Registrar compras y actualizar inventario.
-📊 Estadísticas → Gráficos de stock y ventas en tiempo real.
+Gestión de Clientes: Agrega y administra la información de tus clientes.
 
-🚀 Tecnologías: C# .NET, Windows Forms, List<T>, Dictionary<T,T>.
-📌 Requisitos: Visual Studio, .NET Framework.
+Registro de Ventas: Asigna productos a clientes con cálculos automáticos integrados.
 
-💻 Desarrollado por: [Tu Nombre] 
+Estadísticas Visuales: 📊 Obtén gráficos en tiempo real para stock y ventas.
+
+📝 Funcionalidades Detalladas
+📦 Productos: Agregar, modificar y listar productos con control de inventario.
+
+👤 Clientes: Registrar clientes con datos como dirección y teléfono.
+
+🛒 Ventas: Registrar compras y actualizar automáticamente el inventario.
+
+📊 Estadísticas: Visualización interactiva de gráficos de inventario y ventas.
+
+🚀 Tecnologías Utilizadas
+Lenguaje: C# .NET
+
+Framework: Windows Forms
+
+Estructuras de Datos: List<T>, Dictionary<T,T>
+
+📌 Requisitos Previos
+Software: Visual Studio
+
+Framework: .NET Framework
+
+💻 Desarrollado por: [Tu Nombre o Equipo]
